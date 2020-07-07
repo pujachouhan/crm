@@ -1,0 +1,9 @@
+<-------------->
+project link
+<-------------->
+
+https://github.com/pujachouhan/djangoCRM.git
+
+
+1. rest fremwork comment kiya
+
